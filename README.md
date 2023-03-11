@@ -4,8 +4,8 @@ This project mainly discusses the use of random walk algorithm to generate non-e
 
 ## DLA Demo
 
-![](./gif/DLA.gif)
+<img src="./gif/DLA.gif" style="zoom: 33%;" />
 
 ## DBM Fast Demo
 
-![](./gif/DBM_FAST.gif)
+<img src="./gif/DBM_FAST.gif" style="zoom: 33%;" />
