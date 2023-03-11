@@ -1,6 +1,11 @@
 # README
 
-本项目主要探讨使用随机游走的算法生成非平衡生长图像，其中主要包含DLA模型和DBM模型，并且着重分析DLA图像的分形分维特征
+This project mainly discusses the use of random walk algorithm to generate non-equilibrium growth images, which mainly includes DLA model and DBM model, and focuses on the analysis of fractal and fractal characteristics of DLA images
 
 ## DLA Demo
 
+![](./gif/DLA.gif)
+
+## DBM Fast Demo
+
+![](./gif/DBM_FAST.gif)
